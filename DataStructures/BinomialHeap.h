@@ -1,6 +1,7 @@
 /*
   Warning! This code is extremely bad.
   Do not use it, it is dangerous for society.
+  (But I'm to lazy)
 */
 
 #include <iostream>
